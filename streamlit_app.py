@@ -23,6 +23,6 @@ streamlit.dataframe(fruits_to_show)
 
 #New section to dispay fuirvice api response
 import requests
-fruitvice_response = requests.get("https://fruitvice.com/api/fruit/watermelon")
-streamlit.text(fruitvice_response)
+fruityvice_response = requests.get("https://fruityvice.com/api/fruit/watermelon")
+streamlit.text(fruityvice_response)
 
